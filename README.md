@@ -6,7 +6,7 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/ru.bluecat.marketplaceadaway)](https://github.com/Xposed-Modules-Repo/ru.bluecat.marketplaceadaway/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/lsposed_workshop_forum)
-[![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=126968779)
+[![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=136661029)
 [![Donate](https://img.shields.io/badge/Donate_Form-blue)](https://pay.cloudtips.ru/p/85f8cf00)
 
 <p>Скрывает рекламу и рекомендации в российских маркетплейсах.</p>
@@ -18,7 +18,7 @@
 - Сброс технических данных осуществляется вручную по необходимости.
 
 ### Особенности:
-OZON:
+Ozon:
 - Вкладка Ozon банка построена по web технологиям и не обработана.
 
 Яндекс Маркет:
@@ -35,7 +35,7 @@ OZON:
 
 ### Требования:
 - Android 7.0+
-- Установленные приложения: [OZON](https://www.rustore.ru/catalog/app/ru.ozon.app.android), [WILDBERRIES]https://www.rustore.ru/catalog/app/com.wildberries.ru), [Яндекс Маркет](https://www.rustore.ru/catalog/app/ru.beru.android), [Магнит]https://www.rustore.ru/catalog/app/ru.tander.magnit)
+- Установленные приложения: [Ozon](https://www.rustore.ru/catalog/app/ru.ozon.app.android) / [Wildberries](https://www.rustore.ru/catalog/app/com.wildberries.ru) / [Яндекс Маркет](https://www.rustore.ru/catalog/app/ru.beru.android) / [Магнит](https://www.rustore.ru/catalog/app/ru.tander.magnit)
 
 ### Обратите внимание:
 - В приложениях встречаются экраны полностью сделанные по web технологиям(javascript, html). С такими техниками построения интерфейса к сожалению фреймворк работать не умеет.
