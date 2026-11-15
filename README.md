@@ -22,32 +22,15 @@
 - Фильтрация push уведомлений
 - Акции(некоторые)
 - Вы смотрели
-
-### Особенности(скрытие):
-#### Wildberries
-- Дополнительные сервисы 
-- Карточки товаров дополнительных сервисов
-- Индикаторы уведомлений клуба и push раздела
-- Более подробный доступ к фильтрации push уведомлений
-
-#### Ozon
-- Финансовый блок в профиле
-
-#### Яндекс Маркет
-- Root доступ для банкинга
-- Реферальный раздел профиля
-
-#### Магнит Маркет
-- Дополнительное управление рекламой подписки и опросов
-- Услуги рассрочки
+- Банкинг
+- Реферальные разделы
 
 ### Требования:
-- Android 8.0+
-- Установленные приложения: [Ozon](https://www.rustore.ru/catalog/app/ru.ozon.app.android) / [Wildberries](https://www.rustore.ru/catalog/app/com.wildberries.ru) / [Яндекс Маркет](https://www.rustore.ru/catalog/app/ru.beru.android) / [Магнит](https://www.rustore.ru/catalog/app/ru.tander.magnit)
+- Android 9.0+
+- Установленные приложения: [Wildberries](https://www.rustore.ru/catalog/app/com.wildberries.ru) / [Ozon](https://www.rustore.ru/catalog/app/ru.ozon.app.android) / [Ozon Bank](https://www.rustore.ru/catalog/app/ru.ozon.fintech.finance) / [Яндекс Маркет](https://www.rustore.ru/catalog/app/ru.beru.android)
 
 ### Обратите внимание:
 - Модуль имеет возможность работать в режиме [LSPatch](https://github.com/JingMatrix/LSPatch), подробнее смотрите в telegram канале.
-- Сброс технических данных для LSPatch режима осуществляется вручную по необходимости.
 
 ## For non-Russian users:
 This is a module for the russian "marketplaces", sites for shopping.
